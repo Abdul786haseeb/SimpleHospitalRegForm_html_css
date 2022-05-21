@@ -1,0 +1,96 @@
+body {
+    background-image: url("imagi.jpg");
+    background-size: 1500px 1600px;
+
+  }
+.section1 {
+    width: 80vw;
+    height: 15vh;
+    padding:0%;
+    background-color:white;
+    color:black;
+    text-align: justify;
+    
+}
+
+.hosp {
+    background-color: rgb(246, 248, 250);
+}
+.tappa {
+    width: 400px;
+    height: 35px;
+}
+.koppa {
+        font-weight: 100px;
+}
+.tappa1 {
+    width: 400px;
+    height: 35px;
+}
+.appa {
+    font-weight: 200px;
+}
+.clak {
+    width: 200px;
+    height: 15px;
+}
+
+.clak1 {
+    width: 200px;
+    height: 15px;
+}
+.clak12 {
+    width: 200px;
+    height: 15px;
+}
+
+.clak13 {
+    width: 200px;
+    height: 15px;
+}
+.mappa {
+    width: 150px;
+    height: 20px;
+}
+.lappa {
+    font-weight: 200px;
+}
+.plakk {
+    width: 150px;
+    height: 20px;
+}
+.plakk1 {
+    width: 150px;
+    height: 20px;
+}
+.plakk2 {
+    width: 150px;
+    height: 20px;
+}
+
+.plakkk1 {
+    width: 100px;
+    height: 30px;
+}
+.plakkk2 {
+    width: 100px;
+    height: 30px;
+}
+.plakkk3 {
+    width: 100px;
+    height: 30px;
+}
+
+button {
+    padding: 5px 50px;
+    position: absolute;
+  left: 50px;<br><BR>
+  bottom: 500px;
+}
+
+
+
+
+
+
+
